@@ -1,0 +1,10 @@
+I"F<p>Insbesondere wenn die Wühlmäuse in grosser Zahl auftreten, können die Schäden gross sein:  Einerseits schmälert der Wurzelfrass direkt die Ernte, wobei auch Totalausfälle eintreten können.  Da die Schermaus in der Regel (wie der heute im Mittelland recht selten gewordene Maulwurf) Erdhaufen auswirft, wird andererseits bei der Mahd die Grasernte verschmutzt und die Maschine kann Schaden nehmen.    Es ist also im Interesse der Bewirtschafter von Grünland, die Vermehrung der Wühlmäuse “in den Griff zu bekommen”.</p>
+
+<p>```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()</p>
+
+<p>pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```</p>
+
+<!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/103-ein-schaedling-mitnichten-->
+:ET

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-12T15:29:29+02:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/08/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-08-10T06:04:50+02:00</published><updated>2021-08-10T06:04:50+02:00</updated><id>/jekyll/update/2021/08/10/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/08/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Vernetzungsideen …</title><link href="/2019/03/05/115-vernetzungsideen.html" rel="alternate" type="text/html" title="Vernetzungsideen …" /><published>2019-03-05T00:00:00+01:00</published><updated>2019-03-05T00:00:00+01:00</updated><id>/2019/03/05/115-vernetzungsideen</id><content type="html" xml:base="/2019/03/05/115-vernetzungsideen.html">&lt;p&gt;```{r , echo = FALSE}
+knitr::include_graphics(‘53270766_1997054483750104_9073979648232128512_n.jpg’, error = FALSE) #images/fotos/2019_03_14_Vernetzungsideen_Gruental/53270766_1997054483750104_9073979648232128512_n.jpg&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+In den letzten Jahren wurden auf dem Campus vemehrt grosszügige
+Asthaufen (Bilder unten rechts) und andere Kleinstrukturen erstellt, was
+sich u.a. auf die Präsenz von Wieseln auszuwirken scheint.  
+
+Immer wieder werden Hermeline gesichtet. Sie stellen z.T auch innerhalb
+der Folientunnel Wühlmäusen nach. 
+
+Die gelungenen &amp;lt;a href='https://www.youtube.com/watch?v=82V8zapGEWI&amp;amp;t=36s' target='_blank'&amp;gt;Videoaufnahmen&amp;lt;/a&amp;gt; eines
+Hermelins, das bereitliegende Profile für künftige
+Hagelschutzinstallationen erkundschaftet, erstaunen in verschiedenen
+Hinsichten: 
+
+1.  Das Tier kommt der Kamera sehr nahe, ca. zum Zeitpunkt 1' 20&quot;
+2.  Die Tunnellänge von einigen Metern stellt kein Problem zur
+    Überwindung dar. 
+3.  Das Hermelin schreckt nicht vor den künstlichen Bauteilen zurück.
+
+Von Lokomotivführern bekommt man ebenfalls Erfahrungsberichte, dass
+Wiesel im Bereich des Bahngleises aus Kabelschächten gucken. Lange, enge
+und naturfremde Hohlprofile scheinen ihnen zwischenzeitlich gut als
+Versteck und zur Fortbewegung zu dienen. 
+
+Damit stellt sich die Frage, inwiefern sich mit solchen Ansätzen
+pragmatische und kostengünstige Lösungen finden liessen für die
+[notwendige Vernetzung ihrer
+Teillebensräume](wissenschaft/wiesel-co-projekte/51-lra). 
+
+Im seenahen Teil des dicht besiedelten Bezirk Horgen ist die
+Zerschneidung der Lebensräume durch National- und Kantonsstrassen
+markant. 
+
+Es muss unser Ziel sein, dass in Zukunft beim Bau von Brücken,
+Unterführungen, Brüstungen etc. die Möglichkeiten für die
+Lebensraumvernetzung von Wieseln genutzt werden  
+- Noch sind die unten links abgebildeten Trennelemente auf den Brücken
+der A3 nicht durchgängig für Hermelin und Mauswiesel...
+
+ 
+
+&amp;lt;!-- &amp;lt;table style=&quot;width: 553px; height: 15px; float: left;&quot;&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;colgroup&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;col style=&quot;width: 50%&quot; /&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;col style=&quot;width: 50%&quot; /&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;/colgroup&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;tbody&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;tr class=&quot;odd&quot;&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;td style=&quot;width: 374px&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&quot;images/fotos/2019_03_14_Vernetzungsideen_Gruental/2017-04-10_184059_red.jpg&quot; width=&quot;524&quot; height=&quot;699&quot; /&amp;gt;     &amp;lt;/p&amp;gt;&amp;lt;/td&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;td style=&quot;width: 505px&quot;&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&quot;images/fotos/2019_03_14_Vernetzungsideen_Gruental/2018-04-16_173827_red.jpg&quot; width=&quot;347&quot; height=&quot;195&quot; /&amp;gt;&amp;lt;/p&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;p&amp;gt;&amp;lt;img src=&quot;images/fotos/2019_03_14_Vernetzungsideen_Gruental/2018-04-16-174743_red.jpg&quot; width=&quot;347&quot; height=&quot;195&quot; /&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/td&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;/tr&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;tr class=&quot;even&quot;&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;td style=&quot;width: 374px&quot;&amp;gt; &amp;lt;/td&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;td style=&quot;width: 505px&quot;&amp;gt; &amp;lt;/td&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;/tr&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;/tbody&amp;gt; --&amp;gt;
+&amp;lt;!-- &amp;lt;/table&amp;gt; --&amp;gt;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/mensch-wiesel/115-vernetzungsideen--&gt;</content><author><name></name></author><summary type="html">{r , echo = FALSE} knitr::include_graphics('53270766_1997054483750104_9073979648232128512_n.jpg', error = FALSE) #images/fotos/2019_03_14_Vernetzungsideen_Gruental/53270766_1997054483750104_9073979648232128512_n.jpg</summary></entry><entry><title type="html">Wieselwerk mit Schulklassen</title><link href="/2018/04/05/108-wieselwerk-mit-schulklassen.html" rel="alternate" type="text/html" title="Wieselwerk mit Schulklassen" /><published>2018-04-05T00:00:00+02:00</published><updated>2018-04-05T00:00:00+02:00</updated><id>/2018/04/05/108-wieselwerk-mit-schulklassen</id><content type="html" xml:base="/2018/04/05/108-wieselwerk-mit-schulklassen.html">&lt;p&gt;```{r , echo = FALSE}
+knitr::include_graphics(‘P8160049_adjust_snipe.jpg’, error = FALSE) #images/fotos/Wieselwerk-div/P8160049_adjust_snipe.jpg&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+Die folgenden Fotos zeigen Wieselwerke mit Schulklassen verschiedener
+Altersstufen. 
+
+&amp;lt;!-- {gallery}fotos/WieselwerkeBis17-18{/gallery} --&amp;gt;
+
+&amp;lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/193617721@N08/albums/72157719653759135&quot; title=&quot;WieselwerkeBis17-18&quot;&amp;gt;&amp;lt;img src=&quot;https://live.staticflickr.com/65535/51340668708_63e0a15403.jpg&quot; width=&quot;640&quot; height=&quot;480&quot; alt=&quot;WieselwerkeBis17-18&quot;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;script async src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
+nach einigen Monaten mit einem erneuten Besuch vor Ort vertiefen können.
+Bei dieser Gelegenheit können sie darauf zurückblicken, was
+sie geleistet und bewirkt haben. Z.B. lohnt sich der Versuch, die Spuren
+und Fotos von inzwischen erfolgten Wildtierbesuchen zu bestimmen und
+diskutieren. 
+
+Unsere Projektierung sieht vor, dass dieses seriöse
+Umweltbildungsangebot nicht gratis ist. Für Schulklassen richtet sich
+der Preis nach der Hälfte der effektiven Kosten. Erfreulich ist, dass
+wir auch für enge Budgetverhältnisse stets zufriedenstellende Lösungen
+finden konnten. Und was für Lehrpersonen zwischendurch auch willkommen
+sein dürfte: Sie können die Organisation fast vollständig dem
+eingespielten Team von Wiesel &amp;amp; Co am Zimmerberg überlassen. Die
+Leitungspersonen bringen viel Empathie sowie pädagogisches
+und landwirtschaftliches Knowhow mit und bieten damit
+erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
+
+Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die Klassenlehrpersonen Karin Wildberger (karin.wildberger*_at_*oswaedenswil.ch) vom Schulhaus Fuhr und Tom Künsch (thomas.kuensch*_at_*oswaedenswil.ch) vom Schulhaus Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft über ihre Wieselwerk-Erfahrungen.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/108-wieselwerk-mit-schulklassen--&gt;</content><author><name></name></author><summary type="html">{r , echo = FALSE} knitr::include_graphics('P8160049_adjust_snipe.jpg', error = FALSE) #images/fotos/Wieselwerk-div/P8160049_adjust_snipe.jpg</summary></entry><entry><title type="html">Die Wühlmaus, ein Schädling? Jein.</title><link href="/2018/02/13/103-ein-schaedling-mitnichten.html" rel="alternate" type="text/html" title="Die Wühlmaus, ein Schädling? Jein." /><published>2018-02-13T00:00:00+01:00</published><updated>2018-02-13T00:00:00+01:00</updated><id>/2018/02/13/103-ein-schaedling-mitnichten</id><content type="html" xml:base="/2018/02/13/103-ein-schaedling-mitnichten.html">&lt;p&gt;Insbesondere wenn die Wühlmäuse in grosser Zahl auftreten, können die Schäden gross sein:  Einerseits schmälert der Wurzelfrass direkt die Ernte, wobei auch Totalausfälle eintreten können.  Da die Schermaus in der Regel (wie der heute im Mittelland recht selten gewordene Maulwurf) Erdhaufen auswirft, wird andererseits bei der Mahd die Grasernte verschmutzt und die Maschine kann Schaden nehmen.    Es ist also im Interesse der Bewirtschafter von Grünland, die Vermehrung der Wühlmäuse “in den Griff zu bekommen”.&lt;/p&gt;
+
+&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/103-ein-schaedling-mitnichten--&gt;</content><author><name></name></author><summary type="html">Insbesondere wenn die Wühlmäuse in grosser Zahl auftreten, können die Schäden gross sein: Einerseits schmälert der Wurzelfrass direkt die Ernte, wobei auch Totalausfälle eintreten können. Da die Schermaus in der Regel (wie der heute im Mittelland recht selten gewordene Maulwurf) Erdhaufen auswirft, wird andererseits bei der Mahd die Grasernte verschmutzt und die Maschine kann Schaden nehmen. Es ist also im Interesse der Bewirtschafter von Grünland, die Vermehrung der Wühlmäuse “in den Griff zu bekommen”.</summary></entry><entry><title type="html">Bekämpfung mit Verstand</title><link href="/2018/02/13/104-bekaempfung-mit-verstand.html" rel="alternate" type="text/html" title="Bekämpfung mit Verstand" /><published>2018-02-13T00:00:00+01:00</published><updated>2018-02-13T00:00:00+01:00</updated><id>/2018/02/13/104-bekaempfung-mit-verstand</id><content type="html" xml:base="/2018/02/13/104-bekaempfung-mit-verstand.html">&lt;p&gt;Diese “Ökosystemleistung” erfordert von den Bewirtschaftern einzig eine vernünftige, ökologische Anordnung und Ausstattung ihrer Bewirtschaftungsflächen. Gleichzeitig muss unbedingt auf die Bekämpfung der Wühlmäuse mittels Giftködern verzichtet werden. Die Vergasung (z.B. mittels “Mauki”) sollte ebenfalls sehr zurückhaltend angewendet werden, da sich Wiesel oft in den Gängen aufhalten, ja teilweise sogar dort vermehren. In die mechanischen Fallen geraten die Wiesel jedoch recht selten - Zugleich ist dies die verlässlichste Methode, um den Wühlmausbestand sehr niedrig zu halten.    Unter geeigneten Voraussetzungen kann ein fix installierter Mäusezaun ein sehr wirksames Element bei der Bekämpfung von Wühlmausschäden sein. Die Zuwanderung der Nager wird damit stark erschwert.&lt;/p&gt;
+
+&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/104-bekaempfung-mit-verstand--&gt;</content><author><name></name></author><summary type="html">Diese “Ökosystemleistung” erfordert von den Bewirtschaftern einzig eine vernünftige, ökologische Anordnung und Ausstattung ihrer Bewirtschaftungsflächen. Gleichzeitig muss unbedingt auf die Bekämpfung der Wühlmäuse mittels Giftködern verzichtet werden. Die Vergasung (z.B. mittels “Mauki”) sollte ebenfalls sehr zurückhaltend angewendet werden, da sich Wiesel oft in den Gängen aufhalten, ja teilweise sogar dort vermehren. In die mechanischen Fallen geraten die Wiesel jedoch recht selten - Zugleich ist dies die verlässlichste Methode, um den Wühlmausbestand sehr niedrig zu halten. Unter geeigneten Voraussetzungen kann ein fix installierter Mäusezaun ein sehr wirksames Element bei der Bekämpfung von Wühlmausschäden sein. Die Zuwanderung der Nager wird damit stark erschwert.</summary></entry><entry><title type="html">Wühlmaus-Dossier und Workshop</title><link href="/2018/02/12/117-info-dossier-und-workshop-2.html" rel="alternate" type="text/html" title="Wühlmaus-Dossier und Workshop" /><published>2018-02-12T00:00:00+01:00</published><updated>2018-02-12T00:00:00+01:00</updated><id>/2018/02/12/117-info-dossier-und-workshop-2</id><content type="html" xml:base="/2018/02/12/117-info-dossier-und-workshop-2.html">&lt;p&gt;Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 2017 für den Verein FRUCTUS mit Matthias Wüst ein Interview, das interessante Hintergrundinformationen liefert. Es erschien im FRUCTUS Bulletin Nr. 127 unter der Rubrik “Aus der Praxis” eingebettet in lesenswerte Zeilen zu den “Wühlern”, den Schadbildern und ihren natürlichen Gegenspielern. Download der entsprechenden Seiten des FRUCTUS-Bulletins. Die Galerie zeigt einige Impressionen der beiden Workshop-Ausgaben:&lt;/p&gt;
+
+&lt;!-- {gallery}fotos/Wuehlmaus-Workshops_17-19{/gallery}   --&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/193617721@N08/albums/72157719600636784&quot; title=&quot;Wuehlmaus-Workshops_17-19&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/51341187854_28b6d18394.jpg&quot; width=&quot;640&quot; height=&quot;480&quot; alt=&quot;Wuehlmaus-Workshops_17-19&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/wuehlmaeuse/117-info-dossier-und-workshop-2--&gt;</content><author><name></name></author><summary type="html">Viel Erfolg bei der Umsetzung! Hans Brunner führte anlässlich des Workshops 2017 für den Verein FRUCTUS mit Matthias Wüst ein Interview, das interessante Hintergrundinformationen liefert. Es erschien im FRUCTUS Bulletin Nr. 127 unter der Rubrik “Aus der Praxis” eingebettet in lesenswerte Zeilen zu den “Wühlern”, den Schadbildern und ihren natürlichen Gegenspielern. Download der entsprechenden Seiten des FRUCTUS-Bulletins. Die Galerie zeigt einige Impressionen der beiden Workshop-Ausgaben:</summary></entry><entry><title type="html">Spannende Kurzfilme</title><link href="/2014/05/21/41-spannende-kurzfilme.html" rel="alternate" type="text/html" title="Spannende Kurzfilme" /><published>2014-05-21T00:00:00+02:00</published><updated>2014-05-21T00:00:00+02:00</updated><id>/2014/05/21/41-spannende-kurzfilme</id><content type="html" xml:base="/2014/05/21/41-spannende-kurzfilme.html">&lt;p&gt;Nebst den untenstehenden Sequenzen gibt es auch fortlaufend regionale
+Wiesel-Filmchen auf unserem
+&lt;a href=&quot;https://www.youtube.com/channel/UC3WA9IQb1p8hvPwSAHeefSQ/videos&quot; target=&quot;_blank&quot;&gt;youtube-Kanal&lt;/a&gt;.**&lt;/p&gt;
+
+&lt;p&gt;Unglaublich, was ein Hermelin an Beute machen kann!&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HNbqvqf3-14&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Auch das Mauswiesel hat Beute gewittert:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U7Y_oMRnAy8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/41-spannende-kurzfilme--&gt;</content><author><name></name></author><summary type="html">Nebst den untenstehenden Sequenzen gibt es auch fortlaufend regionale Wiesel-Filmchen auf unserem youtube-Kanal.**</summary></entry><entry><title type="html">zur interaktiven Karte</title><link href="/2014/05/20/39-zur-interaktiven-karte.html" rel="alternate" type="text/html" title="zur interaktiven Karte" /><published>2014-05-20T00:00:00+02:00</published><updated>2014-05-20T00:00:00+02:00</updated><id>/2014/05/20/39-zur-interaktiven-karte</id><content type="html" xml:base="/2014/05/20/39-zur-interaktiven-karte.html">&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/mithelfen-anpacken/beobachtung/39-zur-interaktiven-karte--&gt;</content><author><name></name></author><summary type="html">```{r,results=’asis’, echo = FALSE} pander::pandoc.horizontal.rule()</summary></entry><entry><title type="html">zum Kontaktformular</title><link href="/2014/05/20/40-zum-kontaktformular.html" rel="alternate" type="text/html" title="zum Kontaktformular" /><published>2014-05-20T00:00:00+02:00</published><updated>2014-05-20T00:00:00+02:00</updated><id>/2014/05/20/40-zum-kontaktformular</id><content type="html" xml:base="/2014/05/20/40-zum-kontaktformular.html">&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/mithelfen-anpacken/beobachtung/40-zum-kontaktformular--&gt;</content><author><name></name></author><summary type="html">```{r,results=’asis’, echo = FALSE} pander::pandoc.horizontal.rule()</summary></entry><entry><title type="html">Frage - Antwort Spiel</title><link href="/2014/05/07/36-fragen-rund-um-die-wiesel.html" rel="alternate" type="text/html" title="Frage - Antwort Spiel" /><published>2014-05-07T00:00:00+02:00</published><updated>2014-05-07T00:00:00+02:00</updated><id>/2014/05/07/36-fragen-rund-um-die-wiesel</id><content type="html" xml:base="/2014/05/07/36-fragen-rund-um-die-wiesel.html">&lt;p&gt;Klicke &lt;a href=&quot;Wieselfragen_web.pdf&quot;&gt;hier&lt;/a&gt; um den Test durchzuführen. Bist du fertig? &lt;a href=&quot;Wieselantworten_Web.pdf&quot;&gt;Hier&lt;/a&gt; sind die richtigen Antworten.&lt;/p&gt;
+
+&lt;p&gt;```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()&lt;/p&gt;
+
+&lt;p&gt;pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```&lt;/p&gt;
+
+&lt;!--http://wieselundco.ch/faszination-kleinraubtiere/unsere-leitarten/36-fragen-rund-um-die-wiesel--&gt;</content><author><name></name></author><summary type="html">Klicke hier um den Test durchzuführen. Bist du fertig? Hier sind die richtigen Antworten.</summary></entry></feed>

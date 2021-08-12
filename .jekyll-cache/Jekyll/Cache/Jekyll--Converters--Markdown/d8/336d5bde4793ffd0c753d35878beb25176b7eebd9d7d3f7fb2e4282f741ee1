@@ -1,0 +1,3 @@
+I"U<p>```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()</p>
+:ET

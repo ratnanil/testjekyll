@@ -1,0 +1,58 @@
+I"�<h3 id="erstens-das-verhalten">Erstens: Das Verhalten.</h3>
+
+<p>Die verschiedenen Kleinraubtierarten begegnen dem Menschen wenig,
+bedingt u.a. durch folgende Verhaltensweisen:</p>
+
+<ul>
+  <li>Zum Teil dämmerungs- und nachtaktiv</li>
+  <li>Aufenthalt und Fortbewegung oft in Deckung oder in Erdlöchern.</li>
+  <li>flinke Fortbewegungsweise</li>
+  <li>per se klein, somit auch der Ort für Unterschlupf und ihre Spuren.</li>
+  <li>Tote Tiere (auch Verkehrsopfer) werden übersehen und rasch von
+  Aasfressern abgeräumt.</li>
+</ul>
+
+<p>Wenn wir auf ihre Sichtung zählen dürfen, erhöht sich die Zahl der registrierten Begegnungen und wir erfahren zumindest am Zimmerberg mehr über die Verbreitung und ansatzweise etwas über die Bestände der Kleinraubtiere.</p>
+
+<h3 id="zweitens-die-öffentliche-hand-kann-zu-wenig-ihrer-verantwortung-gegenüber-gefährdeten-arten-gerecht-werden">Zweitens: Die öffentliche Hand kann zu wenig ihrer Verantwortung gegenüber gefährdeten Arten gerecht werden.</h3>
+
+<p>Jagd und Schutz der Kleinraubtiere unterstehen laut Gesetz der Jagd- und
+Fischereiverwaltung des Kantons Zürich. Sie interessiert sich im
+Wesentlichen für die attraktiven jagdbaren Arten, wozu die
+Kleinraubtiere nicht zählen.</p>
+
+<p>Eine Aufgabe der Fachstelle für Naturschutz des Kantons Zürich besteht
+darin, dem Aussterben von Pflanzen- und Tierarten entgegenzuwirken.
+Angesichts der vielen bedrohten Arten und beschränkten Mittel werden
+aber momentan vor allem prioritäre Arten mit Aktionsplänen artspezifisch
+gefördert. Hier kommen Mauswiesel und Iltis zu kurz; Ein Aktionsplan
+scheint ausser Reichweite obwohl sie auf der <a href="http://www.artenschutz.ch/RLDetails/RL1_S%C3%A4uger.pdf">Roten
+Liste</a>
+erscheinen.</p>
+
+<p>Die Datenlücken der Kleinraubtier-Bestände dürften mit ein Grund sein
+dafür, dass ein gezielter Schutzbedarf gemäss der Liste der national
+prioritären Arten des Bundesamts für Umwelt für Mauswiesel und Iltis als
+“unsicher” taxiert wird. Aus dem Text geht zumindest hervor, dass die
+Aufwertung des Lebensraums von Nöten ist, um den Rückgang der Population
+abzufangen:</p>
+
+<p><img src="images/bilder/diverse/massnahmenbedarf_listepriorarten.JPG" width="646" height="153" /></p>
+
+<p>Quelle: Liste der National Prioritären Arten (BAFU 2011)</p>
+
+<p>Mit ihrer Sichtungs-Meldung
+versuchen wir die Datenlücken zu schliessen um damit den Handlungsbedarf
+in Bezug auf die Kleinraubtiere zu klären. Die erfassten Meldungen
+reichen wir regelmässig dem CSCF weiter, ihre persönlichen Daten reichen
+wir jedoch nicht an Dritte ausserhalb des Projekts Wiesel &amp; Co am
+Zimmerberg weiter.</p>
+
+<p>```{r,results=’asis’, echo = FALSE}
+pander::pandoc.horizontal.rule()</p>
+
+<p>pander::pandoc.link(url = glue::glue(‘{params$editurl}{params$rmdpath}’),text = ‘Artikel bearbeiten’)
+```</p>
+
+<!--http://wieselundco.ch/mithelfen-anpacken/beobachtung/28-warum-und-wozu-hilft-meine-sichtungs-meldung-->
+:ET

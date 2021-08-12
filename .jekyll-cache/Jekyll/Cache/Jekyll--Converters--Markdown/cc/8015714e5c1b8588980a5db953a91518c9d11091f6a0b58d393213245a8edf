@@ -1,0 +1,38 @@
+I"h	<p>```{r , echo = FALSE}
+knitr::include_graphics(‘P8160049_adjust_snipe.jpg’, error = FALSE) #images/fotos/Wieselwerk-div/P8160049_adjust_snipe.jpg</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+Die folgenden Fotos zeigen Wieselwerke mit Schulklassen verschiedener
+Altersstufen. 
+
+&lt;!-- {gallery}fotos/WieselwerkeBis17-18{/gallery} --&gt;
+
+&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/193617721@N08/albums/72157719653759135" title="WieselwerkeBis17-18"&gt;&lt;img src="https://live.staticflickr.com/65535/51340668708_63e0a15403.jpg" width="640" height="480" alt="WieselwerkeBis17-18"&gt;&lt;/a&gt;&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"&gt;&lt;/script&gt;
+
+Besonders wertvoll ist, wenn die SchülerInnen den vielfältigen Feldtag
+nach einigen Monaten mit einem erneuten Besuch vor Ort vertiefen können.
+Bei dieser Gelegenheit können sie darauf zurückblicken, was
+sie geleistet und bewirkt haben. Z.B. lohnt sich der Versuch, die Spuren
+und Fotos von inzwischen erfolgten Wildtierbesuchen zu bestimmen und
+diskutieren. 
+
+Unsere Projektierung sieht vor, dass dieses seriöse
+Umweltbildungsangebot nicht gratis ist. Für Schulklassen richtet sich
+der Preis nach der Hälfte der effektiven Kosten. Erfreulich ist, dass
+wir auch für enge Budgetverhältnisse stets zufriedenstellende Lösungen
+finden konnten. Und was für Lehrpersonen zwischendurch auch willkommen
+sein dürfte: Sie können die Organisation fast vollständig dem
+eingespielten Team von Wiesel &amp; Co am Zimmerberg überlassen. Die
+Leitungspersonen bringen viel Empathie sowie pädagogisches
+und landwirtschaftliches Knowhow mit und bieten damit
+erlebnisreiches Lernen in einem echten (Arbeits-)Umfeld.
+
+Sie wünschen Erfahrungsberichte aus dem Berufskollegium? Die Klassenlehrpersonen Karin Wildberger (karin.wildberger*_at_*oswaedenswil.ch) vom Schulhaus Fuhr und Tom Künsch (thomas.kuensch*_at_*oswaedenswil.ch) vom Schulhaus Rotweg (beide Oberstufe Wädenswil) geben gerne Auskunft über ihre Wieselwerk-Erfahrungen.
+
+```{r,results='asis', echo = FALSE}
+pander::pandoc.horizontal.rule()
+
+pander::pandoc.link(url = glue::glue('{params$editurl}{params$rmdpath}'),text = 'Artikel bearbeiten')
+</code></pre></div></div>
+
+<!--http://wieselundco.ch/mithelfen-anpacken/mithelfen/108-wieselwerk-mit-schulklassen-->
+:ET
